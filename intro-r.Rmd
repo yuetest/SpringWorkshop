@@ -11,7 +11,9 @@ output: statsr:::statswithr_lab
 
 ## Introduction
 
-Your 100 level StatSci course this semester will march you through a thorough introduction to using R for statistical science and data science purposes, as well as for many other practical applications.  You should already be familiar with the environment you are going to use for your course, whether it is RStudio in the Cloud, a Docker container, or software installed on your own computer. Your instructor should have given you that information and you should be ready to use it.  The materials here are a compilation of advice and instructions from your professors Curry Hilton, Victoria Ellison, Yue Jian, Shawn Santo, Bob Eisinger, and especially Maria Tackett, Mine Cetinkaya-Rundel, and TAs including Becky Tang and Jennifer Wilson, and many helpful resources.  
+This is a change.
+
+level StatSci course this semester will march you through a thorough introduction to using R for statistical science and data science purposes, as well as for many other practical applications.  You should already be familiar with the environment you are going to use for your course, whether it is RStudio in the Cloud, a Docker container, or software installed on your own computer. Your instructor should have given you that information and you should be ready to use it.  The materials here are a compilation of advice and instructions from your professors Curry Hilton, Victoria Ellison, Yue Jian, Shawn Santo, Bob Eisinger, and especially Maria Tackett, Mine Cetinkaya-Rundel, and TAs including Becky Tang and Jennifer Wilson, and many helpful resources.  
 
 Here are some key ideas:
 
